@@ -1,0 +1,8 @@
+{
+  "name": "Pazhaya Chollu Puthia Kali",
+  "description": "A quirky Malayalam proverbs mini-game arcade featuring 5 funny, playable games based on classic sayings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

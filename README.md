@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# PazhayaCholluPuthiyaKali
 
 
 ## Basic Details
