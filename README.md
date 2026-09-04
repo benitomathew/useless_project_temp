@@ -34,7 +34,7 @@ For Software:
 - Google AI Studio, Git, GitHub, VS Code
 
 ### Implementation
-For Software:
+Try it out : https://pazhayacholluputhiyakali.vercel.app/
 # Installation
 Clone the repository and install the dependencies:
 
@@ -50,14 +50,18 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img width="1900" height="1078" alt="Screenshot 2026-09-05 004734" src="https://github.com/user-attachments/assets/6da0998f-ccf4-4626-b734-882f3cfe1842" />
+
 <img width="1901" height="1072" alt="Screenshot 2026-09-05 004816" src="https://github.com/user-attachments/assets/6a0aeec0-5f16-4b84-8564-29c1aae9707c" />
-<img width="1917" height="1078" alt="Screenshot 2026-09-05 004845" src="https://github.com/user-attachments/assets/ef533ccf-4aad-4660-a0dd-94b617223195" />
+
 <img width="1896" height="1078" alt="Screenshot 2026-09-05 005013" src="https://github.com/user-attachments/assets/674c856a-e123-4de9-baee-c2354d2c55ee" />
+
 <img width="1901" height="1077" alt="Screenshot 2026-09-05 005044" src="https://github.com/user-attachments/assets/84bad3aa-bd5b-48a7-ab9f-bbbc8685a49c" />
+
 <img width="1901" height="1078" alt="Screenshot 2026-09-05 005113" src="https://github.com/user-attachments/assets/8aa42670-a32c-4c69-a430-0a2722032423" />
-<img width="1905" height="1078" alt="Screenshot 2026-09-05 005202" src="https://github.com/user-attachments/assets/e37636e8-4418-4c73-9a61-7605857ce887" />
+
 <img width="1901" height="1077" alt="Screenshot 2026-09-05 005221" src="https://github.com/user-attachments/assets/d9f144ec-0f48-4258-a182-1b74132289a0" />
 
+<img width="1905" height="1078" alt="Screenshot 2026-09-05 005202" src="https://github.com/user-attachments/assets/e37636e8-4418-4c73-9a61-7605857ce887" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
