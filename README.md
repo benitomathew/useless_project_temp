@@ -6,43 +6,44 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: HelloWorld
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: BENITO MATHEW - Govt. Model Engineering College, Thrikkakara
+- Member 2: PESSOA MATHEWS SIBI - Govt. Model Engineering College, Thrikkakara
+
 
 ### Project Description
-[2-3 lines about what your project does]
+PazhayaCholluPuthiyaKali is a set of mini-arcade games inspired by Malayalam proverbs. Instead of interpreting these proverbs in their usual figurative sense, we take their literal meaning and turn it into ridiculous, playable situations.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Malayalam proverbs have been sitting around for generations, giving people life advice that nobody asked for.
+What if we took these proverbs literally?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Nobody needed an answer. Nobody asked for a solution. Yet here we are.
+So we solved this nonexistent problem by turning Malayalam pazhamchollu into ridiculous mini-games.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- TypeScript, HTML, CSS
+- React, Vite
+- Google GenAI, Tailwind CSS, Lucide React, Canvas Confetti, Motion, Express, dotenv
+- Google AI Studio, Git, GitHub, VS Code
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Clone the repository and install the dependencies:
+
+git clone <your-repository-url>
+cd <project-folder>
+npm install
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
