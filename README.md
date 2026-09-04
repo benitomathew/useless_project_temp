@@ -88,16 +88,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
+https://www.youtube.com/watch?v=cWVUCUH6R0w
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- BENITO MATHEW: Worked on the development, UI, game mechanics, and implementation.
+- PESSOA MATHEWS SIBI :Helped with brainstorming, testing, finding flaws, and improving the gameplay.
+-
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
