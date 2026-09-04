@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=cWVUCUH6R0w
 ## Team Contributions
 - BENITO MATHEW: Worked on the development, UI, game mechanics, and implementation.
 - PESSOA MATHEWS SIBI :Helped with brainstorming, testing, finding flaws, and improving the gameplay.
--
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
