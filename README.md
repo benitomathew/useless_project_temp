@@ -38,8 +38,7 @@ Try it out : https://pazhayacholluputhiyakali.vercel.app/
 # Installation
 Clone the repository and install the dependencies:
 
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/benitomathew/useless_project_temp
 npm install
 
 # Run
@@ -69,21 +68,29 @@ For Software:
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+
 
 ![Build](Add photos of build process here)
-*Explain the build steps*
+🎮 Pazhaya Chollu Puthiya Kali
 
-![Final](Add photo of final product here)
+Old Pazhamchollu. New Games.
+
+Pazhaya Chollu Puthiya Kali is a Malayalam proverb-inspired mini-game arcade. The main idea is to take familiar Malayalam pazhamchollu (proverbs) and interpret them literally instead of traditionally, turning them into absurd little games.
+
+🕹️ 1. Multiple Proverb-Based Mini Games
+
+Each proverb becomes its own playable challenge.
+
+“താൻ കുഴിച്ച കുഴിയിൽ താൻ തന്നെ വീഴും”
+You dig holes/traps for other characters, but you have to avoid falling into your own trap.
+
+“ചക്ക വീണു മുയൽ ചത്തു”
+Control the jackfruit and try to drop it directly onto the rabbit.
+
+“പെരുവെള്ളം”
+Catch falling raindrops using a bucket before the timer runs out.
 *Explain the final build*
 
 ### Project Demo
