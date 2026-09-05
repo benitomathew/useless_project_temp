@@ -39,6 +39,7 @@ Try it out : https://pazhayacholluputhiyakali.vercel.app/
 Clone the repository and install the dependencies:
 
 git clone https://github.com/benitomathew/useless_project_temp
+
 npm install
 
 # Run
@@ -47,7 +48,7 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="1900" height="1078" alt="Screenshot 2026-09-05 004734" src="https://github.com/user-attachments/assets/6da0998f-ccf4-4626-b734-882f3cfe1842" />
 
 <img width="1901" height="1072" alt="Screenshot 2026-09-05 004816" src="https://github.com/user-attachments/assets/6a0aeec0-5f16-4b84-8564-29c1aae9707c" />
@@ -62,17 +63,9 @@ For Software:
 
 <img width="1905" height="1078" alt="Screenshot 2026-09-05 005202" src="https://github.com/user-attachments/assets/e37636e8-4418-4c73-9a61-7605857ce887" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
 
 
-# Build Photos
 
-
-![Build](Add photos of build process here)
 🎮 Pazhaya Chollu Puthiya Kali
 
 Old Pazhamchollu. New Games.
